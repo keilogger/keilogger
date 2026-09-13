@@ -11,7 +11,7 @@
     </a>
   </p>
 
-  <!-- Banner cobrindo toda tela -->
+  <!-- Banner ocupando toda a largura entre as bordas -->
   <img src="https://i.imgur.com/a75UqgD.png" alt="Banner Galáctico Preto" width="100%" />
 
   <!-- Borda inferior animada -->
